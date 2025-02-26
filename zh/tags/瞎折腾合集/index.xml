@@ -10,10 +10,13 @@
     <atom:link href="https://ainfinity-lilacdream.github.io/zh/tags/%E7%9E%8E%E6%8A%98%E8%85%BE%E5%90%88%E9%9B%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用Hugo&#43;PaperMod&#43;github pages搭建个人博客</title>
-      <link>https://ainfinity-lilacdream.github.io/zh/posts/setup-a-personal-blog/</link>
+      <link>https://ainfinity-lilacdream.github.io/zh/posts/wondering/setup-a-personal-blog/</link>
       <pubDate>Tue, 25 Feb 2025 10:25:50 +0800</pubDate>
-      <guid>https://ainfinity-lilacdream.github.io/zh/posts/setup-a-personal-blog/</guid>
-      <description>&lt;!-- more --&gt;</description>
+      <guid>https://ainfinity-lilacdream.github.io/zh/posts/wondering/setup-a-personal-blog/</guid>
+      <description>&lt;!-- more --&gt;
+&lt;h2 id=&#34;零--前言&#34;&gt;零 · 前言&lt;/h2&gt;
+&lt;p&gt;这是我的第一篇博客。因为学着搭建博客的时候踩了太多坑，特此来记录一下，尽可能清晰，也给后来人一个参考。&lt;/p&gt;
+&lt;p&gt;如标题，博客采用Hugo+PaperMod+github pages搭建。下面我将分步记录搭建过程，以及一些踩过的坑。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Category 1 on AInfinity的博客</title>
-    <link>https://ainfinity-lilacdream.github.io/zh/categories/category-1/</link>
-    <description>Recent content in Category 1 on AInfinity的博客</description>
+    <title>瞎折腾合集 on AInfinity的博客</title>
+    <link>https://ainfinity-lilacdream.github.io/zh/posts/wondering/</link>
+    <description>Recent content in 瞎折腾合集 on AInfinity的博客</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>zh</language>
     <lastBuildDate>Tue, 25 Feb 2025 10:25:50 +0800</lastBuildDate>
-    <atom:link href="https://ainfinity-lilacdream.github.io/zh/categories/category-1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ainfinity-lilacdream.github.io/zh/posts/wondering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用Hugo&#43;PaperMod&#43;github pages搭建个人博客</title>
       <link>https://ainfinity-lilacdream.github.io/zh/posts/wondering/setup-a-personal-blog/</link>
