@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>前端 on AInfinity的博客</title>
-    <link>http://localhost:1313/zh/tags/%E5%89%8D%E7%AB%AF/</link>
+    <link>https://ainfinity-lilacdream.github.io/zh/tags/%E5%89%8D%E7%AB%AF/</link>
     <description>Recent content in 前端 on AInfinity的博客</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 27 Mar 2025 23:24:46 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/tags/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ainfinity-lilacdream.github.io/zh/tags/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Migrating Vue From 2 to 3</title>
-      <link>http://localhost:1313/zh/posts/wondering/migrating-vue-from-2-to-3/</link>
+      <title>将项目从Vue2迁移至Vue3</title>
+      <link>https://ainfinity-lilacdream.github.io/zh/posts/wondering/migrating-vue-from-2-to-3/</link>
       <pubDate>Thu, 27 Mar 2025 23:24:46 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/wondering/migrating-vue-from-2-to-3/</guid>
-      <description>migrating vue from vue2 to vue3 and solutions for some errors.</description>
+      <guid>https://ainfinity-lilacdream.github.io/zh/posts/wondering/migrating-vue-from-2-to-3/</guid>
+      <description>&lt;!-- more --&gt;
+&lt;p&gt;最近课设需求需要将一个开源项目从Vue2升级到Vue3。项目规模不小，有许多依赖需要连带着升级。花费了我不少力气，以后大概是不想从头搞第二遍了。但是也权写一篇文章来记录一下踩过的坑。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

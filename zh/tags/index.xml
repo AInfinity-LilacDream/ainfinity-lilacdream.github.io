@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on AInfinity的博客</title>
-    <link>http://localhost:1313/zh/tags/</link>
+    <link>https://ainfinity-lilacdream.github.io/zh/tags/</link>
     <description>Recent content in Tags on AInfinity的博客</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 27 Mar 2025 23:24:46 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ainfinity-lilacdream.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vue</title>
-      <link>http://localhost:1313/zh/tags/vue/</link>
+      <link>https://ainfinity-lilacdream.github.io/zh/tags/vue/</link>
       <pubDate>Thu, 27 Mar 2025 23:24:46 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/vue/</guid>
+      <guid>https://ainfinity-lilacdream.github.io/zh/tags/vue/</guid>
       <description></description>
     </item>
     <item>
       <title>迁移</title>
-      <link>http://localhost:1313/zh/tags/%E8%BF%81%E7%A7%BB/</link>
+      <link>https://ainfinity-lilacdream.github.io/zh/tags/%E8%BF%81%E7%A7%BB/</link>
       <pubDate>Thu, 27 Mar 2025 23:24:46 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/%E8%BF%81%E7%A7%BB/</guid>
+      <guid>https://ainfinity-lilacdream.github.io/zh/tags/%E8%BF%81%E7%A7%BB/</guid>
       <description></description>
     </item>
     <item>
       <title>前端</title>
-      <link>http://localhost:1313/zh/tags/%E5%89%8D%E7%AB%AF/</link>
+      <link>https://ainfinity-lilacdream.github.io/zh/tags/%E5%89%8D%E7%AB%AF/</link>
       <pubDate>Thu, 27 Mar 2025 23:24:46 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/%E5%89%8D%E7%AB%AF/</guid>
+      <guid>https://ainfinity-lilacdream.github.io/zh/tags/%E5%89%8D%E7%AB%AF/</guid>
       <description></description>
     </item>
     <item>
       <title>瞎折腾合集</title>
-      <link>http://localhost:1313/zh/tags/%E7%9E%8E%E6%8A%98%E8%85%BE%E5%90%88%E9%9B%86/</link>
+      <link>https://ainfinity-lilacdream.github.io/zh/tags/%E7%9E%8E%E6%8A%98%E8%85%BE%E5%90%88%E9%9B%86/</link>
       <pubDate>Thu, 27 Mar 2025 23:24:46 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/%E7%9E%8E%E6%8A%98%E8%85%BE%E5%90%88%E9%9B%86/</guid>
+      <guid>https://ainfinity-lilacdream.github.io/zh/tags/%E7%9E%8E%E6%8A%98%E8%85%BE%E5%90%88%E9%9B%86/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/zh/tags/blog/</link>
+      <link>https://ainfinity-lilacdream.github.io/zh/tags/blog/</link>
       <pubDate>Tue, 25 Feb 2025 10:25:50 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/blog/</guid>
+      <guid>https://ainfinity-lilacdream.github.io/zh/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/zh/tags/hugo/</link>
+      <link>https://ainfinity-lilacdream.github.io/zh/tags/hugo/</link>
       <pubDate>Tue, 25 Feb 2025 10:25:50 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/hugo/</guid>
+      <guid>https://ainfinity-lilacdream.github.io/zh/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>PaperMod</title>
-      <link>http://localhost:1313/zh/tags/papermod/</link>
+      <link>https://ainfinity-lilacdream.github.io/zh/tags/papermod/</link>
       <pubDate>Tue, 25 Feb 2025 10:25:50 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/papermod/</guid>
+      <guid>https://ainfinity-lilacdream.github.io/zh/tags/papermod/</guid>
       <description></description>
     </item>
     <item>
       <title>关于</title>
-      <link>http://localhost:1313/zh/tags/%E5%85%B3%E4%BA%8E/</link>
+      <link>https://ainfinity-lilacdream.github.io/zh/tags/%E5%85%B3%E4%BA%8E/</link>
       <pubDate>Tue, 25 Feb 2025 10:22:10 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/%E5%85%B3%E4%BA%8E/</guid>
+      <guid>https://ainfinity-lilacdream.github.io/zh/tags/%E5%85%B3%E4%BA%8E/</guid>
       <description></description>
     </item>
   </channel>
