@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on AInfinity的博客</title>
-    <link>https://ainfinity-lilacdream.github.io/zh/categories/</link>
+    <link>http://localhost:1313/zh/categories/</link>
     <description>Recent content in Categories on AInfinity的博客</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 25 Feb 2025 10:25:50 +0800</lastBuildDate>
-    <atom:link href="https://ainfinity-lilacdream.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Mar 2025 23:24:46 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Category 1</title>
-      <link>https://ainfinity-lilacdream.github.io/zh/categories/category-1/</link>
-      <pubDate>Tue, 25 Feb 2025 10:25:50 +0800</pubDate>
-      <guid>https://ainfinity-lilacdream.github.io/zh/categories/category-1/</guid>
+      <title>技术</title>
+      <link>http://localhost:1313/zh/categories/%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Thu, 27 Mar 2025 23:24:46 +0800</pubDate>
+      <guid>http://localhost:1313/zh/categories/%E6%8A%80%E6%9C%AF/</guid>
       <description></description>
     </item>
     <item>
-      <title>Category 2</title>
-      <link>https://ainfinity-lilacdream.github.io/zh/categories/category-2/</link>
-      <pubDate>Tue, 25 Feb 2025 10:25:50 +0800</pubDate>
-      <guid>https://ainfinity-lilacdream.github.io/zh/categories/category-2/</guid>
+      <title>折腾</title>
+      <link>http://localhost:1313/zh/categories/%E6%8A%98%E8%85%BE/</link>
+      <pubDate>Thu, 27 Mar 2025 23:24:46 +0800</pubDate>
+      <guid>http://localhost:1313/zh/categories/%E6%8A%98%E8%85%BE/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vue on AInfinity的博客</title>
+    <link>http://localhost:1313/zh/tags/vue/</link>
+    <description>Recent content in Vue on AInfinity的博客</description>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 27 Mar 2025 23:24:46 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tags/vue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating Vue From 2 to 3</title>
+      <link>http://localhost:1313/zh/posts/wondering/migrating-vue-from-2-to-3/</link>
+      <pubDate>Thu, 27 Mar 2025 23:24:46 +0800</pubDate>
+      <guid>http://localhost:1313/zh/posts/wondering/migrating-vue-from-2-to-3/</guid>
+      <description>migrating vue from vue2 to vue3 and solutions for some errors.</description>
+    </item>
+  </channel>
+</rss>

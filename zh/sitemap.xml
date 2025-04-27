@@ -2,52 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/</loc>
+    <loc>http://localhost:1313/zh/</loc>
+    <lastmod>2025-03-27T23:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/categories/</loc>
+    <lastmod>2025-03-27T23:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/posts/wondering/migrating-vue-from-2-to-3/</loc>
+    <lastmod>2025-03-27T23:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/tags/</loc>
+    <lastmod>2025-03-27T23:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/tags/vue/</loc>
+    <lastmod>2025-03-27T23:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2025-03-27T23:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/tags/%E8%BF%81%E7%A7%BB/</loc>
+    <lastmod>2025-03-27T23:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2025-03-27T23:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/posts/</loc>
+    <lastmod>2025-03-27T23:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/tags/%E7%9E%8E%E6%8A%98%E8%85%BE%E5%90%88%E9%9B%86/</loc>
+    <lastmod>2025-03-27T23:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/posts/wondering/</loc>
+    <lastmod>2025-03-27T23:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/categories/%E6%8A%98%E8%85%BE/</loc>
+    <lastmod>2025-03-27T23:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/tags/blog/</loc>
     <lastmod>2025-02-25T10:25:50+08:00</lastmod>
   </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/tags/blog/</loc>
+    <loc>http://localhost:1313/zh/tags/hugo/</loc>
     <lastmod>2025-02-25T10:25:50+08:00</lastmod>
   </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/categories/</loc>
+    <loc>http://localhost:1313/zh/tags/papermod/</loc>
     <lastmod>2025-02-25T10:25:50+08:00</lastmod>
   </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/categories/category-1/</loc>
+    <loc>http://localhost:1313/zh/posts/wondering/setup-a-personal-blog/</loc>
     <lastmod>2025-02-25T10:25:50+08:00</lastmod>
   </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/categories/category-2/</loc>
-    <lastmod>2025-02-25T10:25:50+08:00</lastmod>
-  </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/tags/hugo/</loc>
-    <lastmod>2025-02-25T10:25:50+08:00</lastmod>
-  </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/tags/papermod/</loc>
-    <lastmod>2025-02-25T10:25:50+08:00</lastmod>
-  </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/tags/</loc>
-    <lastmod>2025-02-25T10:25:50+08:00</lastmod>
-  </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/posts/wondering/setup-a-personal-blog/</loc>
-    <lastmod>2025-02-25T10:25:50+08:00</lastmod>
-  </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/posts/</loc>
-    <lastmod>2025-02-25T10:25:50+08:00</lastmod>
-  </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/tags/%E7%9E%8E%E6%8A%98%E8%85%BE%E5%90%88%E9%9B%86/</loc>
-    <lastmod>2025-02-25T10:25:50+08:00</lastmod>
-  </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/posts/wondering/</loc>
-    <lastmod>2025-02-25T10:25:50+08:00</lastmod>
-  </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/tags/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>http://localhost:1313/zh/tags/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2025-02-25T10:22:10+08:00</lastmod>
   </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/about/</loc>
+    <loc>http://localhost:1313/zh/about/</loc>
     <lastmod>2025-02-25T10:22:10+08:00</lastmod>
   </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/series/</loc>
+    <loc>http://localhost:1313/zh/series/</loc>
   </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/archives/</loc>
+    <loc>http://localhost:1313/zh/archives/</loc>
   </url><url>
-    <loc>https://ainfinity-lilacdream.github.io/zh/search/</loc>
+    <loc>http://localhost:1313/zh/search/</loc>
   </url>
 </urlset>
